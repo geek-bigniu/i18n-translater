@@ -1,4 +1,5 @@
 # i18n-translator
+> 此项目基于ChatGPT进行辅助编写，自己简单修改了以下即可实现所有功能，聊天记录: [https://chatgpt.com/share/5c51d880-12eb-4576-9f43-84ad988bd872](https://chatgpt.com/share/5c51d880-12eb-4576-9f43-84ad988bd872)
 
 该项目旨在读取指定的 JSON 文件，创建其副本，并使用 Microsoft 翻译 API 将其内容翻译成多种语言。翻译结果保存在与原始文件结构相同的新 JSON 文件中。
 * 微软翻译接入的是免申请的API，无需任何配置，直接使用即可
