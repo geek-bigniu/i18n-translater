@@ -1,0 +1,13 @@
+{
+  "hello": "Hello",
+  "world": "world",
+  "hello.world": "Hello, world",
+  "object": {
+    "objectKey": "Object Testing",
+    "object1": {
+      "object1Key": "Subject 1 test"
+    }
+  },
+  "中文": "Chinese",
+  "重复值": "Duplicate values"
+}

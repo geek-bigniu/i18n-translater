@@ -1,0 +1,24 @@
+{
+  "name": "i18n-translater",
+  "version": "1.0.0",
+  "description": "转化i18n的json文件为指定语言json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geek-bigniu/i18n-translater.git"
+  },
+  "author": "geek-bigniu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geek-bigniu/i18n-translater/issues"
+  },
+  "homepage": "https://github.com/geek-bigniu/i18n-translater#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "axios-retry": "^4.4.1"
+  }
+}
