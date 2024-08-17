@@ -1,0 +1,14 @@
+{
+  "hello": "Olá",
+  "world": "mundo",
+  "hello.world": "Olá, mundo",
+  "object": {
+    "objectKey": "Teste de objeto",
+    "object1": {
+      "object1Key": "Teste do sujeito 1"
+    }
+  },
+  "中文": "Chinês",
+  "重复值": "Valores duplicados",
+  "新增合并": "Adicionada fusão"
+}

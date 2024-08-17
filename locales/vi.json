@@ -1,0 +1,14 @@
+{
+  "hello": "Xin chào",
+  "world": "thế giới",
+  "hello.world": "Chào thế giới",
+  "object": {
+    "objectKey": "Kiểm tra đối tượng",
+    "object1": {
+      "object1Key": "Bài kiểm tra đối tượng 1"
+    }
+  },
+  "中文": "Trung quốc",
+  "重复值": "Giá trị trùng lặp",
+  "新增合并": "Đã thêm phối"
+}

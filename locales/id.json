@@ -1,0 +1,14 @@
+{
+  "hello": "Halo",
+  "world": "dunia",
+  "hello.world": "Halo dunia",
+  "object": {
+    "objectKey": "Pengujian Objek",
+    "object1": {
+      "object1Key": "Tes subjek 1"
+    }
+  },
+  "中文": "Cina",
+  "重复值": "Nilai duplikat",
+  "新增合并": "Menambahkan penggabungan"
+}

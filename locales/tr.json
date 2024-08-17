@@ -1,0 +1,14 @@
+{
+  "hello": "Merhaba",
+  "world": "dünya",
+  "hello.world": "Merhaba Dünya",
+  "object": {
+    "objectKey": "Nesne Testi",
+    "object1": {
+      "object1Key": "Konu 1 testi"
+    }
+  },
+  "中文": "Çince",
+  "重复值": "Yinelenen değerler",
+  "新增合并": "Birleştirme eklendi"
+}

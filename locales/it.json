@@ -1,0 +1,14 @@
+{
+  "hello": "Ciao",
+  "world": "mondo",
+  "hello.world": "Salve, mondo",
+  "object": {
+    "objectKey": "Test degli oggetti",
+    "object1": {
+      "object1Key": "Test del soggetto 1"
+    }
+  },
+  "中文": "Cinese",
+  "重复值": "Valori duplicati",
+  "新增合并": "Aggiunta l'unione"
+}
